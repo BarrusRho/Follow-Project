@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 82ffc584eafcc234f87c8a94640b46cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boots
+    100002: //RootNode
+    100004: Dancing_Head
+    100006: Dancing_Hips
+    100008: Dancing_LeftArm
+    100010: Dancing_LeftFoot
+    100012: Dancing_LeftForeArm
+    100014: Dancing_LeftHand
+    100016: Dancing_LeftHandIndex1
+    100018: Dancing_LeftHandIndex2
+    100020: Dancing_LeftHandIndex3
+    100022: Dancing_LeftHandMiddle1
+    100024: Dancing_LeftHandMiddle2
+    100026: Dancing_LeftHandMiddle3
+    100028: Dancing_LeftHandPinky1
+    100030: Dancing_LeftHandPinky2
+    100032: Dancing_LeftHandPinky3
+    100034: Dancing_LeftHandRing1
+    100036: Dancing_LeftHandRing2
+    100038: Dancing_LeftHandRing3
+    100040: Dancing_LeftHandThumb1
+    100042: Dancing_LeftHandThumb2
+    100044: Dancing_LeftHandThumb3
+    100046: Dancing_LeftLeg
+    100048: Dancing_LeftShoulder
+    100050: Dancing_LeftToeBase
+    100052: Dancing_LeftUpLeg
+    100054: Dancing_Neck
+    100056: Dancing_RightArm
+    100058: Dancing_RightFoot
+    100060: Dancing_RightForeArm
+    100062: Dancing_RightHand
+    100064: Dancing_RightHandIndex1
+    100066: Dancing_RightHandIndex2
+    100068: Dancing_RightHandIndex3
+    100070: Dancing_RightHandMiddle1
+    100072: Dancing_RightHandMiddle2
+    100074: Dancing_RightHandMiddle3
+    100076: Dancing_RightHandPinky1
+    100078: Dancing_RightHandPinky2
+    100080: Dancing_RightHandPinky3
+    100082: Dancing_RightHandRing1
+    100084: Dancing_RightHandRing2
+    100086: Dancing_RightHandRing3
+    100088: Dancing_RightHandThumb1
+    100090: Dancing_RightHandThumb2
+    100092: Dancing_RightHandThumb3
+    100094: Dancing_RightLeg
+    100096: Dancing_RightShoulder
+    100098: Dancing_RightToeBase
+    100100: Dancing_RightUpLeg
+    100102: Dancing_Spine
+    100104: Dancing_Spine1
+    100106: Dress
+    100108: Ears
+    100110: Eyebrows
+    100112: Eyes
+    100114: Flowers_big
+    100116: Flowers_small
+    100118: Hair
+    100120: Hat
+    100122: Lady
+    100124: Waist
+    400000: Boots
+    400002: //RootNode
+    400004: Dancing_Head
+    400006: Dancing_Hips
+    400008: Dancing_LeftArm
+    400010: Dancing_LeftFoot
+    400012: Dancing_LeftForeArm
+    400014: Dancing_LeftHand
+    400016: Dancing_LeftHandIndex1
+    400018: Dancing_LeftHandIndex2
+    400020: Dancing_LeftHandIndex3
+    400022: Dancing_LeftHandMiddle1
+    400024: Dancing_LeftHandMiddle2
+    400026: Dancing_LeftHandMiddle3
+    400028: Dancing_LeftHandPinky1
+    400030: Dancing_LeftHandPinky2
+    400032: Dancing_LeftHandPinky3
+    400034: Dancing_LeftHandRing1
+    400036: Dancing_LeftHandRing2
+    400038: Dancing_LeftHandRing3
+    400040: Dancing_LeftHandThumb1
+    400042: Dancing_LeftHandThumb2
+    400044: Dancing_LeftHandThumb3
+    400046: Dancing_LeftLeg
+    400048: Dancing_LeftShoulder
+    400050: Dancing_LeftToeBase
+    400052: Dancing_LeftUpLeg
+    400054: Dancing_Neck
+    400056: Dancing_RightArm
+    400058: Dancing_RightFoot
+    400060: Dancing_RightForeArm
+    400062: Dancing_RightHand
+    400064: Dancing_RightHandIndex1
+    400066: Dancing_RightHandIndex2
+    400068: Dancing_RightHandIndex3
+    400070: Dancing_RightHandMiddle1
+    400072: Dancing_RightHandMiddle2
+    400074: Dancing_RightHandMiddle3
+    400076: Dancing_RightHandPinky1
+    400078: Dancing_RightHandPinky2
+    400080: Dancing_RightHandPinky3
+    400082: Dancing_RightHandRing1
+    400084: Dancing_RightHandRing2
+    400086: Dancing_RightHandRing3
+    400088: Dancing_RightHandThumb1
+    400090: Dancing_RightHandThumb2
+    400092: Dancing_RightHandThumb3
+    400094: Dancing_RightLeg
+    400096: Dancing_RightShoulder
+    400098: Dancing_RightToeBase
+    400100: Dancing_RightUpLeg
+    400102: Dancing_Spine
+    400104: Dancing_Spine1
+    400106: Dress
+    400108: Ears
+    400110: Eyebrows
+    400112: Eyes
+    400114: Flowers_big
+    400116: Flowers_small
+    400118: Hair
+    400120: Hat
+    400122: Lady
+    400124: Waist
+    2100000: material0
+    4300000: Lady
+    4300002: Eyes
+    4300004: Ears
+    4300006: Hair
+    4300008: Hat
+    4300010: Flowers_big
+    4300012: Flowers_small
+    4300014: Eyebrows
+    4300016: Dress
+    4300018: Waist
+    4300020: Boots
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boots
+    13700002: Dress
+    13700004: Ears
+    13700006: Eyebrows
+    13700008: Eyes
+    13700010: Flowers_big
+    13700012: Flowers_small
+    13700014: Hair
+    13700016: Hat
+    13700018: Lady
+    13700020: Waist
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 481
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

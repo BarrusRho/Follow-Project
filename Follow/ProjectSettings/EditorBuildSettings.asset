@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/Pre_Menu_Scene.unity
+    guid: 1c30d397674912345bfc876788cc4e02
+  - enabled: 1
+    path: Assets/_Scenes/Pre_Menu_Scene_2.unity
+    guid: a512340a1dc6af1439716e77766236e6
+  - enabled: 1
+    path: Assets/_Scenes/Pre_Menu_Scene_3.unity
+    guid: afe7195187c8bf74b82793369d733a69
+  - enabled: 1
+    path: Assets/_Scenes/Main_Menu.unity
+    guid: b03d6efe9fce20e4786f42927b7caf13
+  - enabled: 1
+    path: Assets/_Scenes/Controls_Menu.unity
+    guid: b66253f787c40464caeeb24dc93487c2
+  - enabled: 1
+    path: Assets/_Scenes/Intro_Scene.unity
+    guid: e6145aeaa9680964ab117c664da95a35
+  - enabled: 1
+    path: Assets/_Scenes/Level_One.unity
+    guid: c389aa26bc1288c488e75d3328f6731f
+  - enabled: 1
+    path: Assets/_Scenes/Level_Two_Intro_Scene.unity
+    guid: 90979a27006375841b8dcdc436aa7b91
+  - enabled: 1
+    path: Assets/_Scenes/Level_Two.unity
+    guid: 6ff230c55fa4a904ab03ba061f21abba
+  - enabled: 1
+    path: Assets/_Scenes/Level_Three_Intro_Scene.unity
+    guid: cd39b40c186bb9a4ca42cd236e18f010
+  - enabled: 1
+    path: Assets/_Scenes/Level_Three.unity
+    guid: 381cf9a0217f2db4797db2ca23bf5c6f
+  - enabled: 1
+    path: Assets/_Scenes/Level_Four_Intro_Scene.unity
+    guid: 8e120ebbbaff31541ae8ea470c0d9ab5
+  - enabled: 1
+    path: Assets/_Scenes/Level_Four.unity
+    guid: fe3e1f3c536e9d742a2cf370e81c5891
+  - enabled: 1
+    path: Assets/_Scenes/Level_Five_Intro_Scene.unity
+    guid: b684a07d55f3498449582af0a0283570
+  - enabled: 1
+    path: Assets/_Scenes/Level_Five.unity
+    guid: 3e8de9ab1a2983841ab299830ce68739
+  - enabled: 1
+    path: Assets/_Scenes/End_Scene_Intro.unity
+    guid: 82506f6c2bf8ddf4dbf0438667b7290b
+  - enabled: 1
+    path: Assets/_Scenes/End_Scene.unity
+    guid: ec8bb50810e0c31449e893ea24ef6329
+  - enabled: 1
+    path: Assets/_Scenes/Credits_Scene.unity
+    guid: 4f6f79756aa99da4b8a1d7b6adc74f96
+  - enabled: 1
+    path: Assets/_Scenes/Main_Menu_2.unity
+    guid: c42985309e8efdf469ddb3f4f203a122
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/e7f7de8009f9a0a458eb69a67291a8a2
+    guid: e7f7de8009f9a0a458eb69a67291a8a2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 75b5bc0ab5d4a8541a4e9596b87fe348
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Death_Head
+    100004: Death_Hips
+    100006: Death_LeftArm
+    100008: Death_LeftFoot
+    100010: Death_LeftForeArm
+    100012: Death_LeftHand
+    100014: Death_LeftHandIndex1
+    100016: Death_LeftHandIndex2
+    100018: Death_LeftHandIndex3
+    100020: Death_LeftHandMiddle1
+    100022: Death_LeftHandMiddle2
+    100024: Death_LeftHandMiddle3
+    100026: Death_LeftHandPinky1
+    100028: Death_LeftHandPinky2
+    100030: Death_LeftHandPinky3
+    100032: Death_LeftHandRing1
+    100034: Death_LeftHandRing2
+    100036: Death_LeftHandRing3
+    100038: Death_LeftHandThumb1
+    100040: Death_LeftHandThumb2
+    100042: Death_LeftHandThumb3
+    100044: Death_LeftLeg
+    100046: Death_LeftShoulder
+    100048: Death_LeftToeBase
+    100050: Death_LeftUpLeg
+    100052: Death_Neck
+    100054: Death_RightArm
+    100056: Death_RightFoot
+    100058: Death_RightForeArm
+    100060: Death_RightHand
+    100062: Death_RightHandIndex1
+    100064: Death_RightHandIndex2
+    100066: Death_RightHandIndex3
+    100068: Death_RightHandMiddle1
+    100070: Death_RightHandMiddle2
+    100072: Death_RightHandMiddle3
+    100074: Death_RightHandPinky1
+    100076: Death_RightHandPinky2
+    100078: Death_RightHandPinky3
+    100080: Death_RightHandRing1
+    100082: Death_RightHandRing2
+    100084: Death_RightHandRing3
+    100086: Death_RightHandThumb1
+    100088: Death_RightHandThumb2
+    100090: Death_RightHandThumb3
+    100092: Death_RightLeg
+    100094: Death_RightShoulder
+    100096: Death_RightToeBase
+    100098: Death_RightUpLeg
+    100100: Death_Spine
+    100102: Death_Spine1
+    100104: Dress
+    100106: Ears
+    100108: Eyebrows
+    100110: Eyes
+    100112: Hair
+    100114: Lady
+    100116: Waist
+    400000: //RootNode
+    400002: Death_Head
+    400004: Death_Hips
+    400006: Death_LeftArm
+    400008: Death_LeftFoot
+    400010: Death_LeftForeArm
+    400012: Death_LeftHand
+    400014: Death_LeftHandIndex1
+    400016: Death_LeftHandIndex2
+    400018: Death_LeftHandIndex3
+    400020: Death_LeftHandMiddle1
+    400022: Death_LeftHandMiddle2
+    400024: Death_LeftHandMiddle3
+    400026: Death_LeftHandPinky1
+    400028: Death_LeftHandPinky2
+    400030: Death_LeftHandPinky3
+    400032: Death_LeftHandRing1
+    400034: Death_LeftHandRing2
+    400036: Death_LeftHandRing3
+    400038: Death_LeftHandThumb1
+    400040: Death_LeftHandThumb2
+    400042: Death_LeftHandThumb3
+    400044: Death_LeftLeg
+    400046: Death_LeftShoulder
+    400048: Death_LeftToeBase
+    400050: Death_LeftUpLeg
+    400052: Death_Neck
+    400054: Death_RightArm
+    400056: Death_RightFoot
+    400058: Death_RightForeArm
+    400060: Death_RightHand
+    400062: Death_RightHandIndex1
+    400064: Death_RightHandIndex2
+    400066: Death_RightHandIndex3
+    400068: Death_RightHandMiddle1
+    400070: Death_RightHandMiddle2
+    400072: Death_RightHandMiddle3
+    400074: Death_RightHandPinky1
+    400076: Death_RightHandPinky2
+    400078: Death_RightHandPinky3
+    400080: Death_RightHandRing1
+    400082: Death_RightHandRing2
+    400084: Death_RightHandRing3
+    400086: Death_RightHandThumb1
+    400088: Death_RightHandThumb2
+    400090: Death_RightHandThumb3
+    400092: Death_RightLeg
+    400094: Death_RightShoulder
+    400096: Death_RightToeBase
+    400098: Death_RightUpLeg
+    400100: Death_Spine
+    400102: Death_Spine1
+    400104: Dress
+    400106: Ears
+    400108: Eyebrows
+    400110: Eyes
+    400112: Hair
+    400114: Lady
+    400116: Waist
+    2100000: material0
+    4300000: Lady
+    4300002: Eyes
+    4300004: Ears
+    4300006: Hair
+    4300008: Eyebrows
+    4300010: Dress
+    4300012: Waist
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dress
+    13700002: Ears
+    13700004: Eyebrows
+    13700006: Eyes
+    13700008: Hair
+    13700010: Lady
+    13700012: Waist
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

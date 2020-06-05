@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 290b066c2ada56444b78ff2277a4e7f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Beckoning2_Head
+    100002: Beckoning2_Hips
+    100004: Beckoning2_LeftArm
+    100006: Beckoning2_LeftFoot
+    100008: Beckoning2_LeftForeArm
+    100010: Beckoning2_LeftHand
+    100012: Beckoning2_LeftHandIndex1
+    100014: Beckoning2_LeftHandIndex2
+    100016: Beckoning2_LeftHandIndex3
+    100018: Beckoning2_LeftHandMiddle1
+    100020: Beckoning2_LeftHandMiddle2
+    100022: Beckoning2_LeftHandMiddle3
+    100024: Beckoning2_LeftHandPinky1
+    100026: Beckoning2_LeftHandPinky2
+    100028: Beckoning2_LeftHandPinky3
+    100030: Beckoning2_LeftHandRing1
+    100032: Beckoning2_LeftHandRing2
+    100034: Beckoning2_LeftHandRing3
+    100036: Beckoning2_LeftHandThumb1
+    100038: Beckoning2_LeftHandThumb2
+    100040: Beckoning2_LeftHandThumb3
+    100042: Beckoning2_LeftLeg
+    100044: Beckoning2_LeftShoulder
+    100046: Beckoning2_LeftToeBase
+    100048: Beckoning2_LeftUpLeg
+    100050: Beckoning2_Neck
+    100052: Beckoning2_RightArm
+    100054: Beckoning2_RightFoot
+    100056: Beckoning2_RightForeArm
+    100058: Beckoning2_RightHand
+    100060: Beckoning2_RightHandIndex1
+    100062: Beckoning2_RightHandIndex2
+    100064: Beckoning2_RightHandIndex3
+    100066: Beckoning2_RightHandMiddle1
+    100068: Beckoning2_RightHandMiddle2
+    100070: Beckoning2_RightHandMiddle3
+    100072: Beckoning2_RightHandPinky1
+    100074: Beckoning2_RightHandPinky2
+    100076: Beckoning2_RightHandPinky3
+    100078: Beckoning2_RightHandRing1
+    100080: Beckoning2_RightHandRing2
+    100082: Beckoning2_RightHandRing3
+    100084: Beckoning2_RightHandThumb1
+    100086: Beckoning2_RightHandThumb2
+    100088: Beckoning2_RightHandThumb3
+    100090: Beckoning2_RightLeg
+    100092: Beckoning2_RightShoulder
+    100094: Beckoning2_RightToeBase
+    100096: Beckoning2_RightUpLeg
+    100098: Beckoning2_Spine
+    100100: Beckoning2_Spine1
+    100102: //RootNode
+    100104: Boots
+    100106: Dress
+    100108: Ears
+    100110: Eyebrows
+    100112: Eyes
+    100114: Flowers_big
+    100116: Flowers_small
+    100118: Hair
+    100120: Hat
+    100122: Lady
+    100124: Waist
+    400000: Beckoning2_Head
+    400002: Beckoning2_Hips
+    400004: Beckoning2_LeftArm
+    400006: Beckoning2_LeftFoot
+    400008: Beckoning2_LeftForeArm
+    400010: Beckoning2_LeftHand
+    400012: Beckoning2_LeftHandIndex1
+    400014: Beckoning2_LeftHandIndex2
+    400016: Beckoning2_LeftHandIndex3
+    400018: Beckoning2_LeftHandMiddle1
+    400020: Beckoning2_LeftHandMiddle2
+    400022: Beckoning2_LeftHandMiddle3
+    400024: Beckoning2_LeftHandPinky1
+    400026: Beckoning2_LeftHandPinky2
+    400028: Beckoning2_LeftHandPinky3
+    400030: Beckoning2_LeftHandRing1
+    400032: Beckoning2_LeftHandRing2
+    400034: Beckoning2_LeftHandRing3
+    400036: Beckoning2_LeftHandThumb1
+    400038: Beckoning2_LeftHandThumb2
+    400040: Beckoning2_LeftHandThumb3
+    400042: Beckoning2_LeftLeg
+    400044: Beckoning2_LeftShoulder
+    400046: Beckoning2_LeftToeBase
+    400048: Beckoning2_LeftUpLeg
+    400050: Beckoning2_Neck
+    400052: Beckoning2_RightArm
+    400054: Beckoning2_RightFoot
+    400056: Beckoning2_RightForeArm
+    400058: Beckoning2_RightHand
+    400060: Beckoning2_RightHandIndex1
+    400062: Beckoning2_RightHandIndex2
+    400064: Beckoning2_RightHandIndex3
+    400066: Beckoning2_RightHandMiddle1
+    400068: Beckoning2_RightHandMiddle2
+    400070: Beckoning2_RightHandMiddle3
+    400072: Beckoning2_RightHandPinky1
+    400074: Beckoning2_RightHandPinky2
+    400076: Beckoning2_RightHandPinky3
+    400078: Beckoning2_RightHandRing1
+    400080: Beckoning2_RightHandRing2
+    400082: Beckoning2_RightHandRing3
+    400084: Beckoning2_RightHandThumb1
+    400086: Beckoning2_RightHandThumb2
+    400088: Beckoning2_RightHandThumb3
+    400090: Beckoning2_RightLeg
+    400092: Beckoning2_RightShoulder
+    400094: Beckoning2_RightToeBase
+    400096: Beckoning2_RightUpLeg
+    400098: Beckoning2_Spine
+    400100: Beckoning2_Spine1
+    400102: //RootNode
+    400104: Boots
+    400106: Dress
+    400108: Ears
+    400110: Eyebrows
+    400112: Eyes
+    400114: Flowers_big
+    400116: Flowers_small
+    400118: Hair
+    400120: Hat
+    400122: Lady
+    400124: Waist
+    2100000: material0
+    4300000: Lady
+    4300002: Eyes
+    4300004: Ears
+    4300006: Hair
+    4300008: Hat
+    4300010: Flowers_big
+    4300012: Flowers_small
+    4300014: Eyebrows
+    4300016: Dress
+    4300018: Waist
+    4300020: Boots
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boots
+    13700002: Dress
+    13700004: Ears
+    13700006: Eyebrows
+    13700008: Eyes
+    13700010: Flowers_big
+    13700012: Flowers_small
+    13700014: Hair
+    13700016: Hat
+    13700018: Lady
+    13700020: Waist
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 249
+      lastFrame: 325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
